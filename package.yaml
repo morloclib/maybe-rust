@@ -1,0 +1,12 @@
+name: maybe-rust
+library: std
+version: 0.1.0
+homepage: https://github.com/morloclib/maybe-rust
+synopsis: Rust implementations for maybe operations
+description: Rust implementations for maybe operations
+category: data
+license: MIT
+author: "Zebulun Arendsee"
+maintainer: "z@morloc.io"
+github: https://github.com/morloclib/maybe-rust
+bug-reports: https://github.com/morloclib/maybe-rust

@@ -1,0 +1,4 @@
+module test-maybe-rust (test)
+
+import maybe.test (test)
+import maybe-rust
