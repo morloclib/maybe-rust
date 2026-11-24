@@ -2,3 +2,5 @@ module maybe-rust (*)
 
 import maybe
 import root-rust
+
+source Rust from "maybe.rs" ("morloc_maybe_cat_maybes" as catMaybes)
